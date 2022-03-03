@@ -1,0 +1,4 @@
+outs:
+- md5: 08ceebb090499ad30ddfbbaf7e7d2258
+  size: 1429489
+  path: final_model_content_61221.pickle
